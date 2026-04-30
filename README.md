@@ -123,13 +123,11 @@ streamlit run app/app.py
 
 ## 📸 Screenshots
 
-*Add your screenshots here*
+## 📸 Demo
 
-Example:
-
-* Dashboard UI
-* Sentiment Prediction
-* Charts
+![Dashboard](images/dashboard.png)
+![Prediction](images/prediction.png)
+![Charts](images/pie_chart.png)
 
 ---
 
