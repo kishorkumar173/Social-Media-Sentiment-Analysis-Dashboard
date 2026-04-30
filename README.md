@@ -130,6 +130,9 @@ streamlit run app/app.py
 [Charts](images/pie_chart.png)
 
 ---
+## 🌐 Live Demo
+Click here to view the app: https://social-media-sentiment-analysis-dashboard-pcurqnuuqf9cxwzky9vg.streamlit.app/
+
 
 ## 📈 Results
 
