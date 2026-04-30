@@ -125,9 +125,9 @@ streamlit run app/app.py
 
 ## 📸 Demo
 
-![Dashboard](images/dashboard.png)
-![Prediction](images/prediction.png)
-![Charts](images/pie_chart.png)
+[Dashboard] (images/dashboard.png)
+[Prediction](images/prediction.png)
+[Charts](images/pie_chart.png)
 
 ---
 
